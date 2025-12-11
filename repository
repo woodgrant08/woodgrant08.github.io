@@ -1,0 +1,29 @@
+nbeo-part3-mock/
+│
+├── index.html
+├── package.json
+├── vite.config.js
+├── postcss.config.js
+├── tailwind.config.js
+│
+├── README.md
+│
+└── src/
+    ├── main.jsx
+    ├── App.jsx
+    ├── data/
+    │    ├── case1.json
+    │    └── rubric.json
+    │
+    ├── components/
+    │    ├── Timer.jsx
+    │    ├── HPIChat.jsx
+    │    ├── ExamFindings.jsx
+    │    ├── AdditionalTests.jsx
+    │    ├── DiagnosisPlan.jsx
+    │    └── Grading.jsx
+    │
+    └── assets/
+         ├── slitlamp_example.jpg
+         ├── oct_example.jpg
+         └── fields_example.jpg
